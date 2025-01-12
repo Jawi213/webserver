@@ -2,7 +2,7 @@
     "table": [
         {
             "id": 710965945,
-            "name": "Właściciel skryptu"
+            "name": "Właściciel skryptu",
             "access": ["legitymacja", "klucze"]
         },      
         {
