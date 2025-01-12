@@ -6,7 +6,8 @@
         },      
         {
             "id": 3551836899,
-            "name": "Tester"
+            "name": "Tester",
+            "access": "legitymacja"
         }  
     ]
 }
