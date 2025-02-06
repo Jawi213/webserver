@@ -1,10 +1,5 @@
 {
-    "table": [
-        {
-            "id": 710965945,
-            "name": "Właściciel skryptu",
-            "access": "legitymacja"
-        },      
+    "table": [     
         {
             "id": 3875367543,
             "name": "Klient: ocetix/Ocetix22",
@@ -13,6 +8,11 @@
         {
             "id": 3192070162,
             "name": "Klient: XbananX335",
+            "access": "legitymacja"
+        },
+        {
+            "id": 710965945,
+            "name": "Właściciel skryptu",
             "access": "legitymacja"
         }
     ]
