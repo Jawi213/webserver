@@ -31,6 +31,11 @@
             "access": "legitymacja"
         },
         {
+            "id": 2571207430,
+            "name": "Klient: klasycznymyczek, Płatność dla Elmastero",
+            "access": "legitymacja"
+        },
+        {
             "id": 710965945,
             "name": "Właściciel skryptu",
             "access": "legitymacja"
