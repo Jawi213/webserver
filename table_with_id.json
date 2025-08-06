@@ -46,6 +46,11 @@
             "access": "legitymacja"
         },
         {
+            "id": 33772749,
+            "name": "Klient: borek, Płatność jawi, id grupy",
+            "access": "legitymacja"
+        },
+        {
             "id": 710965945,
             "name": "Właściciel skryptu",
             "access": "legitymacja"
