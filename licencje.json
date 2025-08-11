@@ -14,6 +14,11 @@
             "id": 5228638903,
             "name": "Klient Snorlax, Płatność 50/50",
             "access": "pagony"
+        },
+        {
+            "id": 6022088392,
+            "name": "Klient patyrur, Płatność elmastero",
+            "access": "pagony"
         }
     ]
 }
