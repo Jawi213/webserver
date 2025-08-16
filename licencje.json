@@ -22,7 +22,7 @@
             "access": "pagony"
         },
         {
-           "id": 2775396728,
+           "id": 12826304,
            "name": "Klient Polska RP, Płatność jawi - 50, mastero - 30",
            "access": ["pagonypolicja", "pagonypsp", "dystynkcjepolicja", "dystynkcjepsp"]
         }
