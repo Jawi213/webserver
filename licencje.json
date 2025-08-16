@@ -3,7 +3,7 @@
         {
            "id": 710965945,
            "name": "Właściciel skryptu",
-           "access": ["pagonypolicja", "pagonypsp", "dystynkcjepolicja"]
+           "access": ["pagonypolicja", "pagonypsp", "dystynkcjepolicja", "dystynkcjepsp"]
         },
 
         {
