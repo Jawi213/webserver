@@ -1,10 +1,11 @@
 {
     "table": [     
         {
-            "id": 710965945,
-            "name": "Właściciel skryptu",
-            "access": "pagonypolicja", "pagonypsp", "dystynkcjepolicja", "dystynkcjepsp"
+           "id": 710965945,
+           "name": "Właściciel skryptu",
+           "access": ["pagonypolicja", "pagonypsp", "dystynkcjepolicja", "dystynkcjepsp"]
         },
+
         {
             "id": 5132130363,
             "name": "Klient filsonek, Płatność 50/50",
