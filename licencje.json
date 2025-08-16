@@ -20,11 +20,11 @@
             "id": 6022088392,
             "name": "Klient patyrur, Płatność elmastero",
             "access": "pagony"
-        }
+        },
         {
            "id": 2775396728,
            "name": "Klient Polska RP, Płatność jawi - 50, mastero - 30",
            "access": ["pagonypolicja", "pagonypsp", "dystynkcjepolicja", "dystynkcjepsp"]
-        },
+        }
     ]
 }
