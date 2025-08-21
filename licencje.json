@@ -25,6 +25,16 @@
            "id": 12826304,
            "name": "Klient Polska RP, Płatność jawi - 50, mastero - 30",
            "access": ["pagonypolicja", "pagonypsp", "dystynkcjepolicja", "dystynkcjepsp"]
+        },
+        {
+           "id": 2833428465,
+           "name": "Klient sebapro, Płatność jawi - 30",
+           "access": ["pagonypolicja"]
+        },
+        {
+           "id": 532771772,
+           "name": "Klient stalkej, Płatność elmastero - 30",
+           "access": ["pagonypolicja"]
         }
     ]
 }
