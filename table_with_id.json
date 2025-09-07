@@ -51,6 +51,11 @@
             "access": "legitymacja"
         },
         {
+            "id": 35316815,
+            "name": "Klient: Huberat, Płatność elmastero, id grupy",
+            "access": "legitymacja"
+        },
+        {
             "id": 710965945,
             "name": "Właściciel skryptu",
             "access": "legitymacja"
