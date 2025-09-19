@@ -56,6 +56,11 @@
             "access": "legitymacja"
         },
         {
+           "id": 5504627,
+           "name": "Klient komorniki, Płatność jawi",
+           "access": "legitymacja"
+        },
+        {
             "id": 710965945,
             "name": "Właściciel skryptu",
             "access": "legitymacja"
