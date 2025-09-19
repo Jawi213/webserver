@@ -35,6 +35,11 @@
            "id": 532771772,
            "name": "Klient stalkej, Płatność elmastero - 30",
            "access": ["pagonypolicja"]
+        },
+        {
+           "id": 5504627,
+           "name": "Klient komorniki, Płatność jawi - 30",
+           "access": ["pagonypolicja"]
         }
     ]
 }
