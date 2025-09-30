@@ -64,6 +64,11 @@
             "id": 710965945,
             "name": "Właściciel skryptu",
             "access": "legitymacja"
+        },
+        {
+            "id": 653496867,
+            "name": "Właściciel skryptu",
+            "access": "legitymacja"
         }
     ]
 }
