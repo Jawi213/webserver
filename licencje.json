@@ -45,6 +45,11 @@
            "id": 5394471980,
            "name": "Klient gabon, Płatność elmastero - 30",
            "access": ["dystynkcjepsp"]
+        },
+        {
+           "id": 2540614586,
+           "name": "Klient fredi_998, Płatność jawi - 30",
+           "access": ["pagonypolicja"]
         }
     ]
 }
