@@ -50,6 +50,11 @@
            "id": 2540614586,
            "name": "Klient fredi_998, Płatność jawi - 30",
            "access": ["pagonypolicja"]
+        },
+        {
+           "id": 5091979875,
+           "name": "Klient romaxo67_66871, Płatność jawi - 25",
+           "access": ["pagonypsp"]
         }
     ]
 }
