@@ -5,7 +5,11 @@
            "name": "Właściciel skryptu",
            "access": ["pagonypolicja", "pagonypsp", "dystynkcjepolicja", "dystynkcjepsp"]
         },
-
+        {
+           "id": 653496867,
+           "name": "ELMASTERO",
+           "access": ["pagonypolicja", "pagonypsp", "dystynkcjepolicja", "dystynkcjepsp"]
+        },
         {
             "id": 5394471980,
             "name": "Klient gabonv2, Płatność 50/50",
