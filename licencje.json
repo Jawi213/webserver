@@ -69,6 +69,11 @@
            "id": 4542994318,
            "name": "Klient loczeek_96, Płatność jawi - 20",
            "access": ["dystynkcjepsp"]
+        },
+        {
+           "id": 1265000596,
+           "name": "Klient piesellord, Płatność jawi - 20",
+           "access": ["pagonypolicja"]
         }
     ]
 }
