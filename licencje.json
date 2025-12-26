@@ -8,7 +8,7 @@
         {
            "id": 653496867,
            "name": "ELMASTERO",
-           "access": ["pagonypolicja", "pagonypsp", "dystynkcjepolicja", "dystynkcjepsp"]
+           "access": ["pagonypolicja", "pagonypsp", "dystynkcjepolicja", "dystynkcjepsp", "tablicaled"]
         },
         {
             "id": 3045365153,
