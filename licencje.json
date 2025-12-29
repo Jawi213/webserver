@@ -74,6 +74,11 @@
            "id": 1265000596,
            "name": "Klient piesellord, Płatność jawi - 20",
            "access": ["pagonypolicja"]
+        },
+        {
+           "id": 1265000596,
+           "name": "Klient twoiwybranek, Płatność elmastero - 50",
+           "access": ["tablicaled"]
         }
     ]
 }
