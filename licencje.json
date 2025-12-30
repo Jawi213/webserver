@@ -79,6 +79,16 @@
            "id": 1265000596,
            "name": "Klient twoiwybranek, Płatność elmastero - 50",
            "access": ["tablicaled"]
+        },
+        {
+           "id": 2028581948,
+           "name": "Klient jantulo, Płatność jawi - 50(store credit)",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 5320311457,
+           "name": "Klient mlody)ochotnik2115, Płatność elmastero - 50",
+           "access": ["tablicaled"]
         }
     ]
 }
