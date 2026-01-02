@@ -99,6 +99,11 @@
            "id": 3841667285,
            "name": "Klient zwierzak0devv__, Płatność elmastero - 20",
            "access": ["pagonypolicja"]
+        },
+        {
+           "id": 5722694871,
+           "name": "Klient szumiak, Płatność jawi - 50",
+           "access": ["tablicaled"]
         }
     ]
 }
