@@ -94,6 +94,11 @@
            "id": 3178531185,
            "name": "Klient szumiak, Płatność elmastero - 50",
            "access": ["tablicaled"]
+        },
+        {
+           "id": 3841667285,
+           "name": "Klient zwierzak0devv__, Płatność elmastero - 20",
+           "access": ["pagonypolicja"]
         }
     ]
 }
