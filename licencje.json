@@ -109,6 +109,11 @@
            "id": 2379841176,
            "name": "Klient tobixd, Płatność elmastero - 50",
            "access": ["tablicaled"]
+        },
+        {
+           "id": 3861885091,
+           "name": "Klient mr_raxon_1, Płatność jawi - 50 + 20",
+           "access": ["tablicaled", "pagonypolicja"]
         }
     ]
 }
