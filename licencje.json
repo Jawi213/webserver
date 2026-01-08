@@ -104,6 +104,11 @@
            "id": 5722694871,
            "name": "Klient szumiak, Płatność jawi - 50",
            "access": ["tablicaled"]
+        },
+        {
+           "id": 2379841176,
+           "name": "Klient tobixd, Płatność elmastero - 50",
+           "access": ["tablicaled"]
         }
     ]
 }
