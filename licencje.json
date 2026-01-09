@@ -114,6 +114,11 @@
            "id": 8600460148,
            "name": "Klient mr_raxon_1, Płatność jawi - 50 + 20",
            "access": ["tablicaled", "pagonypolicja"]
+        },
+        {
+           "id": 7182875728,
+           "name": "Klient szczelnik, Płatność elmastero - 30",
+           "access": ["pagonypolicja"]
         }
     ]
 }
