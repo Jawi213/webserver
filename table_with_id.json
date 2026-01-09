@@ -66,6 +66,11 @@
            "access": "legitymacja"
         },
         {
+           "id": 2679802946,
+           "name": "Klient Pavel, Płatność  jawi",
+           "access": "legitymacja"
+        },
+        {
             "id": 710965945,
             "name": "Właściciel skryptu",
             "access": "legitymacja"
@@ -74,6 +79,6 @@
             "id": 653496867,
             "name": "Właściciel skryptu",
             "access": "legitymacja"
-        }
+        },
     ]
 }
