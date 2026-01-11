@@ -119,6 +119,11 @@
            "id": 7182875728,
            "name": "Klient szczelnik, Płatność elmastero - 30",
            "access": ["pagonypolicja"]
+        },
+        {
+           "id": 3310011524,
+           "name": "Klient maciejsopolinsk, Płatność jawi - 50",
+           "access": ["tablicaled"]
         }
     ]
 }
