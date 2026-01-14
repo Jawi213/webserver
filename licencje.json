@@ -129,6 +129,11 @@
            "id": 982446728,
            "name": "Klient serv._1, Płatność jawi- 20",
            "access": ["pagonypolicja"]
+        },
+        {
+           "id": 5172368997,
+           "name": "Klient maciejsopolinsk, Płatność elmastero - 50",
+           "access": ["tablicaled"]
         }
     ]
 }
