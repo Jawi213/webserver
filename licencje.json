@@ -134,6 +134,11 @@
            "id": 5172368997,
            "name": "Klient maciejsopolinsk, Płatność elmastero - 50",
            "access": ["tablicaled"]
+        },
+        {
+           "id": 1338410098,
+           "name": "Klient miikussek, Płatność elmastero - 30",
+           "access": ["pagonypolicja"]
         }
     ]
 }
