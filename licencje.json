@@ -139,6 +139,11 @@
            "id": 1338410098,
            "name": "Klient miikussek, Płatność elmastero - 30",
            "access": ["pagonypolicja"]
+        },
+        {
+           "id": 2573994577,
+           "name": "Klient szumi6431, Płatność jawi - 60",
+           "access": ["pagonypsp", "dystynkcjepsp"]
         }
     ]
 }
