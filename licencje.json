@@ -144,6 +144,11 @@
            "id": 2573994577,
            "name": "Klient szumi6431, Płatność jawi - 60",
            "access": ["pagonypsp", "dystynkcjepsp"]
+        },
+        {
+           "id": 4759744471,
+           "name": "Klient ---, Płatność elmastero - 50",
+           "access": ["tablicaled"]
         }
     ]
 }
