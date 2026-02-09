@@ -159,6 +159,11 @@
            "id": 4317639768,
            "name": "Klient dj_kacperek, Płatność elmastero - 50",
            "access": ["tablicaled"]
+        },
+        {
+           "id": 34209069,
+           "name": "Klient lubin rp, Płatność elmastero - 30",
+           "access": ["pagonypolicja"]
         }
     ]
 }
