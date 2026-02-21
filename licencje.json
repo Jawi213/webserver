@@ -164,6 +164,11 @@
            "id": 34209069,
            "name": "Klient lubin rp, Płatność elmastero - 30",
            "access": ["pagonypolicja"]
+        },
+        {
+           "id": 7258987451,
+           "name": "Klient ---, Płatność elmastero - 30",
+           "access": ["pagonypolicja"]
         }
     ]
 }
