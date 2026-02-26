@@ -169,6 +169,11 @@
            "id": 7258987451,
            "name": "Klient ---, Płatność elmastero - 30",
            "access": ["pagonypolicja"]
+        },
+        {
+           "id": 3034670233,
+           "name": "Klient hamiltonek, Płatność JAWI - 50",
+           "access": ["tablicaled"]
         }
     ]
 }
