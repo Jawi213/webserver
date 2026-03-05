@@ -174,6 +174,11 @@
            "id": 3034670233,
            "name": "Klient hamiltonek, Płatność JAWI - 50",
            "access": ["tablicaled"]
+        },
+        {
+           "id": 4542994318,
+           "name": "Klient loczeek_96, Płatność elmastero - 50",
+           "access": ["tablicaled"]
         }
     ]
 }
