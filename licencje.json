@@ -179,6 +179,11 @@
            "id": 4542994318,
            "name": "Klient loczeek_96, Płatność elmastero - 50",
            "access": ["tablicaled"]
+        },
+        {
+           "id": 7643794834,
+           "name": "Klient dextero_zapasowe_1, Płatność jawi - 50",
+           "access": ["tablicaled"]
         }
     ]
 }
