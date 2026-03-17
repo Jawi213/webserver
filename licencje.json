@@ -184,6 +184,11 @@
            "id": 7643794834,
            "name": "Klient dextero_zapasowe_1, Płatność jawi - 50",
            "access": ["tablicaled"]
+        },
+        {
+           "id": 3593815125,
+           "name": "Klient --, Płatność elmastero - 50",
+           "access": ["tablicaled"]
         }
     ]
 }
