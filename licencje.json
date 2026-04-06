@@ -194,6 +194,11 @@
            "id": 5774072470,
            "name": "Klient filip_xxx1., Płatność jawi - 50",
            "access": ["tablicaled"]
+        },
+        {
+           "id": 4451616570,
+           "name": "Klient protogenramddr5, Płatność elmastero - 50",
+           "access": ["tablicaled"]
         }
     ]
 }
