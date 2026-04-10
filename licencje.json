@@ -201,8 +201,13 @@
            "access": ["tablicaled"]
         },
         {
+           "id": 5534887702,
+           "name": "Klient amirkebab0533_22247., Płatność jawi - 50",
+           "access": ["tablicaled"]
+        },
+        {
            "id": 347911326,
-           "name": "Klient lxskie_, Płatność elmastero - 50 ^ wyzej jest typ ktory zaplacil ale nie ma id xd",
+           "name": "Klient lxskie_, Płatność elmastero - 50 ",
            "access": ["tablicaled"]
         }
     ]
