@@ -199,6 +199,11 @@
            "id": 4451616570,
            "name": "Klient protogenramddr5, Płatność elmastero - 50",
            "access": ["tablicaled"]
+        },
+        {
+           "id": 347911326,
+           "name": "Klient lxskie_, Płatność elmastero - 50 ^ wyzej jest typ ktory zaplacil ale nie ma id xd",
+           "access": ["tablicaled"]
         }
     ]
 }
