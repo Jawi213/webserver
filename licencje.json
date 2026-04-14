@@ -209,6 +209,11 @@
            "id": 347911326,
            "name": "Klient lxskie_, Płatność elmastero - 50 ",
            "access": ["tablicaled"]
+        },
+        {
+           "id": 3455509821,
+           "name": "Klient zertis_ofc, Płatność elmastero - 50 ",
+           "access": ["tablicaled"]
         }
     ]
 }
