@@ -214,6 +214,11 @@
            "id": 3455509821,
            "name": "Klient zertis_ofc, Płatność elmastero - 50 ",
            "access": ["tablicaled"]
+        },
+        {
+           "id": 2573994577,
+           "name": "Klient ----, Płatność JAWI WYJĄTEK INNY MODEL",
+           "access": ["tablicaled"]
         }
     ]
 }
