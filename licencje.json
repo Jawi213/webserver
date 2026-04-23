@@ -219,6 +219,11 @@
            "id": 2573994577,
            "name": "Klient ----, Płatność JAWI WYJĄTEK INNY MODEL",
            "access": ["tablicaled"]
+        },
+        {
+           "id": 2280779776,
+           "name": "Klient wegorz1350, Płatność jawi - 50",
+           "access": ["tablicaled"]
         }
     ]
 }
