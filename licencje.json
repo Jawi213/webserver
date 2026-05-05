@@ -224,6 +224,16 @@
            "id": 2280779776,
            "name": "Klient wegorz1350, Płatność jawi - 50",
            "access": ["tablicaled"]
+        },
+        {
+           "id": 5806994758,
+           "name": "Klient ---, Płatność elmsatero - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 2303127799,
+           "name": "Klient ---, Płatność jawi - 50",
+           "access": ["tablicaled"]
         }
     ]
 }
