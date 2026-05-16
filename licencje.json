@@ -234,6 +234,11 @@
            "id": 2303127799,
            "name": "Klient ---, Płatność jawi - 50",
            "access": ["tablicaled"]
+        },
+        {
+           "id": 3875367543,
+           "name": "Klient ---, Płatność elmsatero - 50",
+           "access": ["tablicaled"]
         }
     ]
 }
