@@ -259,6 +259,16 @@
            "id": 1663237230,
            "name": "Klient , Płatność elmastero - 50",
            "access": ["tablicaled"]
+        },
+        {
+           "id": 5394747639,
+           "name": "Klient , Płatność jawi - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 1856432768,
+           "name": "Klient , Płatność elmastero - 50",
+           "access": ["tablicaled"]
         }
     ]
 }
