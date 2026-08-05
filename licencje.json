@@ -63,7 +63,7 @@
         {
            "id": 2679802946,
            "name": "Klient PavelYT, Płatność elmastero - 30",
-           "access": ["pagonypolicja"]
+           "access": ["pagonypolicja", "tablicaled"]
         },
         {
            "id": 4542994318,
