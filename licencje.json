@@ -48,7 +48,7 @@
          {
            "id": 3045365153,
            "name": "Klient gabon, Płatność elmastero - 30",
-           "access": ["dystynkcjepsp"]
+           "access": ["dystynkcjepsp", "tablicaled"]
         },
         {
            "id": 2540614586,
@@ -236,7 +236,7 @@
            "access": ["tablicaled"]
         },
         {
-           "id": 33399176,
+           "id": 111111111,
            "name": "Klient ---, Płatność elmsatero - 50",
            "access": ["tablicaled"]
         },
