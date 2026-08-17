@@ -305,5 +305,10 @@
            "name": "Klient  , Płatność jawi - 50 NIE OPŁACONE ----------------------------",
            "access": ["tablicaled"]
         },
+        {
+           "id": 5394471980,
+           "name": "Klient -, Płatność elmastero - 30",
+           "access": ["pagonypolicja"]
+        }
     ]
 }
