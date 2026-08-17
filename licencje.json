@@ -299,6 +299,11 @@
            "id": 9029852,
            "name": "Klient , Płatność elmastero - 50",
            "access": ["tablicaled"]
-        }
+        },
+        {
+           "id": 2650103168,
+           "name": "Klient  , Płatność jawi - 50 NIE OPŁACONE ----------------------------",
+           "access": ["tablicaled"]
+        },
     ]
 }
