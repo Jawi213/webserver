@@ -309,6 +309,11 @@
            "id": 5394471980,
            "name": "Klient -, Płatność elmastero - 30",
            "access": ["pagonypolicja"]
+        },
+        {
+           "id": 1759992325,
+           "name": "Klient  , Płatność elmastero - 50 ",
+           "access": ["tablicaled"]
         }
     ]
 }
