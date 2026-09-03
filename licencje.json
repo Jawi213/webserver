@@ -314,6 +314,11 @@
            "id": 1759992325,
            "name": "Klient  , Płatność elmastero - 50 ",
            "access": ["tablicaled"]
+        },
+        {
+           "id": 11373100119,
+           "name": "Klient  , Płatność jawi - 50 ",
+           "access": ["tablicaled"]
         }
     ]
 }
