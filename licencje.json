@@ -337,7 +337,12 @@
         },
         {
            "id": 2446676778,
-           "name": "Klient  , Płatność jawi - 50 ------------------------- NIEOPŁACONE",
+           "name": "Klient  , Płatność jawi - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 948802622,
+           "name": "Klient  , Płatność elmastero - 50 ",
            "access": ["tablicaled"]
         }
     ]
