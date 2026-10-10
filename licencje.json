@@ -354,6 +354,11 @@
            "id": 5132130363,
            "name": "Klient  , Płatność jawi - 50 -------------------- NIEOPŁACONE",
            "access": ["tablicaled"]
+        },
+        {
+           "id": 4860334939,
+           "name": "Klient  , Płatność jawi - 20",
+           "access": ["lizak"]
         }
     ]
 }
