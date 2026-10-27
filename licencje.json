@@ -369,6 +369,11 @@
            "id": 1590809228,
            "name": "Klient -, Płatność jawi - 30",
            "access": ["pagonypolicja"]
+        },
+        {
+           "id": 11527196033,
+           "name": "Klient raptor061691  , Płatność jawi - 20",
+           "access": ["lizak"]
         }
     ]
 }
